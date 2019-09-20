@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SwiftTest/static/css/main.d9fe0dda.chunk.css",
+    "main.js": "/SwiftTest/static/js/main.81542a0d.chunk.js",
+    "main.js.map": "/SwiftTest/static/js/main.81542a0d.chunk.js.map",
+    "runtime~main.js": "/SwiftTest/static/js/runtime~main.235eaba1.js",
+    "runtime~main.js.map": "/SwiftTest/static/js/runtime~main.235eaba1.js.map",
+    "static/js/2.d6a534e5.chunk.js": "/SwiftTest/static/js/2.d6a534e5.chunk.js",
+    "static/js/2.d6a534e5.chunk.js.map": "/SwiftTest/static/js/2.d6a534e5.chunk.js.map",
+    "index.html": "/SwiftTest/index.html",
+    "precache-manifest.fac5711dce4c97665edec0851eaca968.js": "/SwiftTest/precache-manifest.fac5711dce4c97665edec0851eaca968.js",
+    "service-worker.js": "/SwiftTest/service-worker.js",
+    "static/css/main.d9fe0dda.chunk.css.map": "/SwiftTest/static/css/main.d9fe0dda.chunk.css.map"
+  }
+}
